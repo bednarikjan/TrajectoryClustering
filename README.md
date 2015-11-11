@@ -1,0 +1,2 @@
+# TrajectoryClustering
+This application is capable of fully automatic clustering of 2D trajectory data. Why is this useful? Many systems today rely on capturing the data with one main p[roperty - time-varying location which can be thought of as a trajectory. Whether it is ecologists who track wild animals, meteorologists who track hurricane flows or traffic researchers who analysis the common patterns in traffic, they all work with huge amount of data wchich must be (auomatically) analyzed in order to derive meaningful information.
